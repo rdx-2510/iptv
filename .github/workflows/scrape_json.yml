@@ -1,0 +1,43 @@
+name: Scrape Streams and Build JSON
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Install Playwright Chromium
+        run: uv run playwright install --with-deps chromium
+
+      - name: Run M3U8 Scraper
+        run: uv run M3U8/fetch.py
+
+      - name: Convert M3U8 to JSON
+        run: uv run M3U8/to_json.py
+
+      - name: Push M3U8 and JSON changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "auto update streams & json"
+          file_pattern: "M3U8/*.m3u8 M3U8/*.json"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
