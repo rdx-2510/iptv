@@ -33,7 +33,7 @@ def detect_category(tvg_id: str, group_title: str) -> str:
     return group_title or "Live Events"
 
 
-def parse_m3u8_to_sports_array(m3u8_path: Path, json_path: Path) -> int:
+def parse_kodi_vs_to_json(m3u8_path: Path, json_path: Path) -> int:
     now_wib = datetime.now(WIB)
     start_time_str = now_wib.strftime("%d/%m/%Y %I:%M:%S %p")
     now_ts = int(now_wib.timestamp())
@@ -66,6 +66,12 @@ def parse_m3u8_to_sports_array(m3u8_path: Path, json_path: Path) -> int:
                 if name_match and name_match.group(1).strip()
                 else fallback_title
             )
+
+            # FILTER KETAT: Abaikan semua channel jika tidak mengandung kata " vs "
+            if not re.search(r"\bvs\.?\b", raw_title, flags=re.IGNORECASE):
+                current_meta = None
+                continue
+
             logo = logo_match.group(1).strip() if logo_match else ""
             group_title = (
                 group_match.group(1).strip() if group_match else "Live Events"
@@ -95,21 +101,20 @@ def parse_m3u8_to_sports_array(m3u8_path: Path, json_path: Path) -> int:
                 extra_ch = parts[1].strip()
                 source_tag = f"{extra_ch} [{source_tag}]"
 
-            # Bersihkan nomor urut stream di belakang judul (misal "Comoros vs Congo 2")
+            # Bersihkan angka urutan di belakang judul (misal "Comoros vs Congo 1")
             base_match_title = re.sub(r"\s+\d+$", "", clean_title).strip()
 
-            # Pisahkan Team A dan Team B dengan format "Team A Vs Team B"
-            team_a = base_match_title
-            team_b = ""
-            event_display_name = base_match_title
+            # Pisahkan Team A dan Team B
             vs_split = re.split(
                 r"\s+vs\.?\s+", base_match_title, maxsplit=1, flags=re.IGNORECASE
             )
-            if len(vs_split) == 2:
-                team_a = vs_split[0].strip()
-                team_b = vs_split[1].strip()
-                event_display_name = f"{team_a} Vs {team_b}"
+            if len(vs_split) != 2:
+                current_meta = None
+                continue
 
+            team_a = vs_split[0].strip()
+            team_b = vs_split[1].strip()
+            event_display_name = f"{team_a} Vs {team_b}"
             category = detect_category(tvg_id, group_title)
 
             current_meta = {
@@ -129,24 +134,33 @@ def parse_m3u8_to_sports_array(m3u8_path: Path, json_path: Path) -> int:
                 "timestamp": now_ts,
                 "channel_name": source_tag,
                 "referer": "",
+                "origin": "",
                 "user_agent": DEFAULT_UA,
             }
 
-        elif line.startswith("#EXTVLCOPT:") and current_meta is not None:
-            opt = line[11:].strip()
-            if "=" in opt:
-                key, val = opt.split("=", 1)
-                key = key.lower().strip()
-                val = unquote(val.strip())
-                if key == "http-referrer":
-                    current_meta["referer"] = val
-                elif key == "http-user-agent":
-                    current_meta["user_agent"] = val
-
         elif line.startswith(("http://", "https://")) and current_meta is not None:
-            stream_url = line.split("|", 1)[0].strip()
-            gkey = current_meta["group_key"]
+            stream_url = line
+            ref = current_meta["referer"]
+            orig = current_meta["origin"]
+            ua = current_meta["user_agent"]
 
+            # Pecah parameter Kodi setelah tanda pipa "|"
+            if "|" in line:
+                stream_url, param_str = line.split("|", 1)
+                stream_url = stream_url.strip()
+                for pair in param_str.split("&"):
+                    if "=" in pair:
+                        k, v = pair.split("=", 1)
+                        k_low = k.lower().strip()
+                        v_clean = unquote(v.strip())
+                        if k_low in ("referer", "http-referrer"):
+                            ref = v_clean
+                        elif k_low in ("origin", "http-origin"):
+                            orig = v_clean
+                        elif k_low in ("user-agent", "http-user-agent"):
+                            ua = v_clean
+
+            gkey = current_meta["group_key"]
             if gkey not in grouped_matches:
                 grouped_matches[gkey] = {
                     "status": current_meta["status"],
@@ -166,31 +180,25 @@ def parse_m3u8_to_sports_array(m3u8_path: Path, json_path: Path) -> int:
                 {
                     "channel_name": ch_label,
                     "stream_url": stream_url,
-                    "referer": current_meta["referer"],
-                    "user_agent": current_meta["user_agent"],
+                    "referer": ref,
+                    "origin": orig,
+                    "user_agent": ua,
                 }
             )
             current_meta = None
 
-    # Output langsung berupa Array [ ... ] persis seperti sports.json di Gist
     matches_array = list(grouped_matches.values())
 
     json_path.write_text(
         json.dumps(matches_array, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"[OK] {m3u8_path.name} -> {json_path.name} ({len(matches_array)} item)")
+    print(f"[OK] {m3u8_path.name} -> {json_path.name} ({len(matches_array)} laga 'vs')")
     return len(matches_array)
 
 
 def main() -> None:
-    targets = [
-        (BASE_DIR / "events.m3u8", BASE_DIR / "events.json"),  # Live Sports
-        (BASE_DIR / "base.m3u8", BASE_DIR / "tv.json"),        # TV Channels 24 Jam
-        (BASE_DIR / "TV.m3u8", BASE_DIR / "all.json"),         # Gabungan TV + Live
-    ]
-    for src, dst in targets:
-        parse_m3u8_to_sports_array(src, dst)
+    parse_kodi_vs_to_json(BASE_DIR / "kodi.m3u8", BASE_DIR / "kodi_events.json")
 
 
 if __name__ == "__main__":
