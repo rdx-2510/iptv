@@ -1,6 +1,78 @@
 [
   {
     "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Borneo Vs Manila Digger",
+    "eventInfo": {
+      "teamA": "Borneo",
+      "teamB": "Manila Digger",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "teamBFlag": "",
+      "eventName": "ASEAN Championship",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "FAWA",
+        "stream_url": "http://193.47.62.41/hls/UUUUAA.m3u8",
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Ho Chi Minh Vs Buriram",
+    "eventInfo": {
+      "teamA": "Ho Chi Minh",
+      "teamB": "Buriram",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "teamBFlag": "",
+      "eventName": "ASEAN Championship",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "FAWA",
+        "stream_url": "http://193.47.62.41/hls/UUUU.m3u8",
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Tampines Vs Ratchaburi",
+    "eventInfo": {
+      "teamA": "Tampines",
+      "teamB": "Ratchaburi",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "teamBFlag": "",
+      "eventName": "ASEAN Championship",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "FAWA",
+        "stream_url": "http://193.47.62.41/hls/UUUUA.m3u8",
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
     "Category": "Live Events",
     "event_name": "Carlos Alcaraz Vs Daniil Medvedev",
     "eventInfo": {
@@ -10,18 +82,18 @@
       "teamBFlag": "",
       "eventName": "ATP Finals",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=e773bf0fa76a65d531f1fb7c529ada8080b76d52-9c-1795044484-1794990484",
+        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=48e216bc734fdc295e90da2002ba5d891518a41b-f4-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn2",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -34,18 +106,32 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
-        "channel_name": "Premiere 3 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere3/index.m3u8?token=ab918dbc0f44cb6de1f822ddac08f2e7163fb410-7f-1795044484-1794990484",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://am91cm5leq.fubo18.com:443/premiere3/mono.m3u8?token=3c207382d265fba7e6aeaef2031130843a9e3da7-e6-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere3",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere3",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Portugués 2 [PLIBRE] 2",
+        "stream_url": "https://b2ZmaWNpYWw.fubo18.com:443/premiere4/mono.m3u8?token=3562b4e59d1bace38bfe5b56b6bc4cd58b0e3ae3-bd-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere4",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere4",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Premiere 3 [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/premiere3/index.m3u8?token=f082f8460963d666e060ce6f1938d8d7d034eaf3-a3-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere3",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -58,18 +144,25 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
-        "channel_name": "Premiere 7 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere7/index.m3u8?token=04c7393cdab96c2ab773746d8254fea1ef51e73a-40-1795044484-1794990484",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://ewvz.fubo18.com:443/premiere7/mono.m3u8?token=876333ec42b7f89dba5e4c34242e9bc9bfaaf763-f6-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere7",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Premiere 7 [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/premiere7/index.m3u8?token=24cc556d2161cf5f6c14228ea6b3a8c751c17d2e-bd-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere7",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere7",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -82,18 +175,49 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
-        "channel_name": "Premiere 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere2/index.m3u8?token=ce17dc618d8a700335faedef28fd1c5e01b0bef4-cd-1795044484-1794990484",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://bgvnzw5k.fubo18.com:443/premiere2/mono.m3u8?token=1ffde986a83f536766f3c2abca0297e7d0da33db-6b-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere2",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Premiere 2 [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/premiere2/index.m3u8?token=b358ee389947143fb02549b7c0efc1b09bef93e5-ed-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere2",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Flamengo Vs Athletico Paranaense",
+    "eventInfo": {
+      "teamA": "Flamengo",
+      "teamB": "Athletico Paranaense",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "teamBFlag": "",
+      "eventName": "Brasileirão",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://bgvnzw5k.fubo18.com:443/premiere1/mono.m3u8?token=30f48d3ea8aa482ef532de29c70e4f40725121de-99-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -106,39 +230,39 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Premiere 1 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?token=cb732019df488e3f67a6abc89d00de3c1cb0ba42-37-1795044484-1794990484",
+        "stream_url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?token=54f040c5afeea0aabf9ed61d9f54c806b9ad68c5-9e-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere1",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Sportv BR [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=348d0874884292a8d59ff4e3d99fc5f8e41d2030-71-1795044484-1794990484",
+        "stream_url": "https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=78bec727563f0e8461b9be756e0f2d43b260e08a-b7-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
         "origin": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Sportv BR [TVF90] 3",
-        "stream_url": "https://7.ftlly.com:443/sportv/mono.m3u8?token=e33398e9ed11c661d18a1548842180fd5b9bd485-60-1795016580-1794998580",
+        "stream_url": "https://9.ftlly.com:443/sportv/mono.m3u8?token=cf9fa5ca786c252c37786f467f0a404f04459e08-9-1795023954-1795005954",
         "referer": "https://tvf90.com/1.php?stream=sportv",
         "origin": "https://tvf90.com/1.php?stream=sportv",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Sportv BR HD [TVF90] 4",
-        "stream_url": "https://8.ftlly.com:443/sportv/mono.m3u8?token=25e2c7088c2c421b6b5c2a62e500324ab9a25b54-43-1795016580-1794998580",
+        "stream_url": "https://7.ftlly.com:443/sportv/mono.m3u8?token=4a79eb6198ac5b3e511fd2df2087f8cc89050665-42-1795023954-1795005954",
         "referer": "https://tvf90.com/hd.php?stream=sportv",
         "origin": "https://tvf90.com/hd.php?stream=sportv",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -151,18 +275,25 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
-        "channel_name": "Premiere 5 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere5/index.m3u8?token=709d6e1d8c75a4d0f9e5edddbdb9a6014bfb2740-63-1795044484-1794990484",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://b2ZmaWNpYWw.fubo18.com:443/premiere5/mono.m3u8?token=939dd7abb768cf6fc5e881574490f9e36a0df3a1-78-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere5",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Premiere 5 [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/premiere5/index.m3u8?token=823d91106c0086283036b44b9950c7386ca1e1cf-e7-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere5",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -175,18 +306,42 @@
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Premiere 6 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/premiere6/index.m3u8?token=c7d059d735ca788cdbe892772d3819cdb2813d97-87-1795044484-1794990484",
+        "stream_url": "https://khala.futlivehd.com/global/premiere6/index.m3u8?token=d02953855759d831d997c6bd5252cd250ba20009-29-1795051858-1794997858",
         "referer": "https://streamxhd.sbs/live1.php?stream=premiere6",
         "origin": "https://streamxhd.sbs/live1.php?stream=premiere6",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Remo Vs Chapecoense-sc",
+    "eventInfo": {
+      "teamA": "Remo",
+      "teamB": "Chapecoense-sc",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "teamBFlag": "",
+      "eventName": "Brasileirão",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://yxdlc29tzq.fubo18.com:443/premiere6/mono.m3u8?token=d7809f02928fffd38df643a8db3e656c3cd16012-ec-1795023955-1795005955",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere6",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere6",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -199,25 +354,25 @@
       "teamBFlag": "",
       "eventName": "Champions League Femenina",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 4 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn4/index.m3u8?token=49c0911883fb44cf05986ee6de6ce8a2ce2862b1-94-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/espn4/index.m3u8?token=6494f61e400783066901dc60a4a535c862c5eeed-5b-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn4",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Espn Deportes [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=718c6ccb366407783b707b083cfa166471e17e7b-9b-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=9ea17cc568042002be45e9f54112eae1df7cac54-9a-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=espndeportes",
         "origin": "https://streamxhd.sbs/live1.php?stream=espndeportes",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -230,18 +385,18 @@
       "teamBFlag": "",
       "eventName": "Champions League Femenina",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Disney + [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=696d99f6287ceb269e02d2c477754424fcc02200-19-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=5267757a62685d250c63840038b2dc498f54cf11-32-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=disney1",
         "origin": "https://streamxhd.sbs/live1.php?stream=disney1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -254,18 +409,18 @@
       "teamBFlag": "",
       "eventName": "Champions League Femenina",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Disney + [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=e1fdad4c9b30581674a5b9abbdc3fb7c55019c62-9d-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=6fb1e2fc1b61979e8b1345c53afd136d6dac1db7-4f-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=disney2",
         "origin": "https://streamxhd.sbs/live1.php?stream=disney2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -278,25 +433,25 @@
       "teamBFlag": "",
       "eventName": "Champions League Femenina",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=ac2b3c4d0b7acf63829334f19fbb4116eb94a73b-a9-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=9352628f60d669e932dd5260e8fcfcc355deb2a4-74-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn2",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Espn Deportes [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=55695924198313c314fb6c47d7c1ebe668104009-34-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=c2fd93681059527b3d71498257450ec5bcbe2d01-17-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=espndeportes",
         "origin": "https://streamxhd.sbs/live1.php?stream=espndeportes",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -309,18 +464,18 @@
       "teamBFlag": "",
       "eventName": "Copa de la División Profesional",
       "event_logo": "https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Entel TV PLUS+ [TVF90]",
-        "stream_url": "https://3.ftlly.com:443/even1/mono.m3u8?token=a0e5bcaeaa96e20cf977de38ab9270c22cd626dc-1d-1795016582-1794998582",
+        "stream_url": "https://7.ftlly.com:443/even1/mono.m3u8?token=ae704246a876a3937bfbb84b1fae0b005e29ba5a-38-1795023956-1795005956",
         "referer": "https://tvf90.com/plus1.php?stream=even1",
         "origin": "https://tvf90.com/plus1.php?stream=even1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -333,7 +488,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
@@ -344,7 +499,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -357,7 +512,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
@@ -368,7 +523,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -381,7 +536,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
@@ -392,7 +547,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -405,46 +560,60 @@
       "teamBFlag": "",
       "eventName": "Liga 1",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
-        "channel_name": "L1 Max [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/l1max/index.m3u8?token=01583409784a01d12615b385e18397ff9011d594-e3-1795044483-1794990483",
+        "channel_name": "Español 1 [PLIBRE]",
+        "stream_url": "https://am91cm5leq.fubo18.com:443/liga1max/mono.m3u8?token=2165d6fb2ec2b8eda1f598c0dcf157fdd92e4a40-bb-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Español 2 [PLIBRE] 2",
+        "stream_url": "https://dw5pdgvk.fubo18.com:443/liga1max_op2/mono.m3u8?token=d028c57815a60db5232d2d0e1b84969c119c923c-1c-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=liga1max_op2",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=liga1max_op2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "L1 Max [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/l1max/index.m3u8?token=63d3a8182b2f1fb23c04d1331c2d1e24dfe93a96-61-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=l1max",
         "origin": "https://streamxhd.sbs/live1.php?stream=l1max",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Liga1MAX [TVF90] 2",
-        "stream_url": "https://5.ftlly.com:443/liga1max/mono.m3u8?token=4b06138f278c66367234121717aeae26e6954e8d-67-1795016584-1794998584",
+        "channel_name": "Liga1MAX [TVF90] 4",
+        "stream_url": "https://5.ftlly.com:443/liga1max/mono.m3u8?token=c7a6c66cbf38488f873a5e6f9cc3d1a4fe5cbb3c-2a-1795023957-1795005957",
         "referer": "https://tvf90.com/1.php?stream=liga1max",
         "origin": "https://tvf90.com/1.php?stream=liga1max",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Liga1MAX | HD [TVF90] 3",
-        "stream_url": "https://4.ftlly.com:443/liga1max/mono.m3u8?token=115d7a972e7f54e89a423ad9000def7f4f52e6d1-b6-1795016584-1794998584",
+        "channel_name": "Liga1MAX | HD [TVF90] 5",
+        "stream_url": "https://8.ftlly.com:443/liga1max/mono.m3u8?token=23d7f75df41c56e0fc01ac6055078c6b0ccc5e53-e3-1795023958-1795005958",
         "referer": "https://tvf90.com/hd.php?stream=liga1max",
         "origin": "https://tvf90.com/hd.php?stream=liga1max",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Liga1Max | OP2 [TVF90] 4",
-        "stream_url": "https://4.ftlly.com:443/liga1max/mono.m3u8?token=fe05f827e9fae907e48d28f610875a5c0577073f-c9-1795016584-1794998584",
+        "channel_name": "Liga1Max | OP2 [TVF90] 6",
+        "stream_url": "https://8.ftlly.com:443/liga1max/mono.m3u8?token=65c3e895e3f4e0e141320ef89728c856f71f88aa-5a-1795023957-1795005957",
         "referer": "https://tvf90.com/2.php?stream=liga1max",
         "origin": "https://tvf90.com/2.php?stream=liga1max",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Liga1Max | OP3 [TVF90] 5",
-        "stream_url": "https://2.ftlly.com:443/liga1max/mono.m3u8?token=fe61d5bb13c58c2537f3907562b9fa14073f3603-fd-1795016584-1794998584",
+        "channel_name": "Liga1Max | OP3 [TVF90] 7",
+        "stream_url": "https://11.ftlly.com:443/liga1max/mono.m3u8?token=eced8d963ec3af8a95325d16020d4aca450745a5-32-1795023958-1795005958",
         "referer": "https://tvf90.com/3.php?stream=liga1max",
         "origin": "https://tvf90.com/3.php?stream=liga1max",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -457,32 +626,32 @@
       "teamBFlag": "",
       "eventName": "Liga de Naciones de la CONCACAF",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Amazon 1 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/amazon1/index.m3u8?token=0115db1d83c1f7b1bea14608195cde39c9b4236d-d8-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/amazon1/index.m3u8?token=2ca58cdcdf8b8419487a1e67616875f06a1f3041-06-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=amazon1",
         "origin": "https://streamxhd.sbs/live1.php?stream=amazon1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Azteca 7 [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/azteca7/index.m3u8?token=533c0c344668d50a11057413d75c179422b4cd09-16-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/azteca7/index.m3u8?token=fb4844f9044f0823c7f4d1a802ec15966affb70e-d5-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=azteca7",
         "origin": "https://streamxhd.sbs/live1.php?stream=azteca7",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Canal 5 MX [STRMXHD] 3",
-        "stream_url": "https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=bb8db46cd841f8b73915ca15562d49837c9c61ba-4b-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=3acda4cf2764be93617784273ab93ed1168bd204-86-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=canal5mx",
         "origin": "https://streamxhd.sbs/live1.php?stream=canal5mx",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -495,18 +664,18 @@
       "teamBFlag": "",
       "eventName": "Liga de Naciones de la CONCACAF",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ViX [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/vix3/index.m3u8?token=d5921cee80ce27c8b3fe78ec2d21377bc17ea84d-ba-1795044483-1794990483",
+        "stream_url": "https://khala.futlivehd.com/global/vix3/index.m3u8?token=1a4aa45a61f3326b1c844c844926baaa7606fb34-b8-1795051857-1794997857",
         "referer": "https://streamxhd.sbs/live1.php?stream=vix3",
         "origin": "https://streamxhd.sbs/live1.php?stream=vix3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -519,18 +688,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 5 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba5/index.m3u8?token=50e73c7ad12236b8945e59dc8866a04ed76ec35b-db-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba5/index.m3u8?token=ab18aa4cb73dba845420cdf5433eb4783065d722-f0-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba5",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -543,18 +712,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 4 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba4/index.m3u8?token=901bc468915b7bde6e35dc428b9447d5d41f42fa-9b-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba4/index.m3u8?token=7576fb33de4f3493d75e2fd2c2b396417048b88e-ca-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba4",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -567,46 +736,46 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 8 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba8/index.m3u8?token=74165f358d8d693baa2b2a34f3dca671d58f2803-0d-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba8/index.m3u8?token=21c3dc2b918d51ac9f15ca76ae5858c0276e31dd-6d-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba8",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 [TVF90] 2",
-        "stream_url": "https://2.ftlly.com:443/espn2/mono.m3u8?token=57da7f6d66bdbc1de3aaf6f07f3147ff2f042953-8e-1795016583-1794998583",
+        "stream_url": "https://9.ftlly.com:443/espn2/mono.m3u8?token=321e2319c0c4c4328a1a61e3dea2920377ed1b47-1-1795023957-1795005957",
         "referer": "https://tvf90.com/1.php?stream=espn2",
         "origin": "https://tvf90.com/1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | HD [TVF90] 3",
-        "stream_url": "https://7.ftlly.com:443/espn2/mono.m3u8?token=b5c5b58bc9323f0bbbc9d7d7df684452be0c8d88-6e-1795016583-1794998583",
+        "stream_url": "https://9.ftlly.com:443/espn2/mono.m3u8?token=a7efc7dac92c1b4eae70c1a28896a892155466c3-15-1795023957-1795005957",
         "referer": "https://tvf90.com/hd.php?stream=espn2",
         "origin": "https://tvf90.com/hd.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP2 [TVF90] 4",
-        "stream_url": "https://5.ftlly.com:443/espn2/mono.m3u8?token=fdec938acd9a3e2ae253eb739a1c989ee337f26a-20-1795016583-1794998583",
+        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=f8e44d7593b41043aafcbaf3519da75b9414741c-e1-1795023957-1795005957",
         "referer": "https://tvf90.com/2.php?stream=espn2",
         "origin": "https://tvf90.com/2.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP3 [TVF90] 5",
-        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=faafa060dae4ed284980efacd39c0aa610b83fb1-72-1795016583-1794998583",
+        "stream_url": "https://3.ftlly.com:443/espn2/mono.m3u8?token=6a30542ca6c8224eb7dd0bd17067296f6275a8bd-5a-1795023957-1795005957",
         "referer": "https://tvf90.com/3.php?stream=espn2",
         "origin": "https://tvf90.com/3.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -619,25 +788,25 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=541cd5c49b07529cf3df020a828b81b90c8915f8-22-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=ca306300e4a22096f3d8d5dfd8a3af89815d9f8b-72-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn2",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "NBA League Pass 10 [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/nba10/index.m3u8?token=31d652271e1c6f9b9e7bac3d0c771f8c47628d52-bc-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/nba10/index.m3u8?token=6c78a33f34f2ab906730b86534c5659d0e4fbe82-82-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba10",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba10",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -650,18 +819,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=6878122995413d34f34de3e1da7a8150edf10a88-1c-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=e55a1461ddee7ced4623c0ffca7f3328412537f1-82-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba2",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -674,18 +843,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 4 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba4/index.m3u8?token=594237ae7c353c704d006fc9f32a4bfceb01d990-45-1795044480-1794990480",
+        "stream_url": "https://khala.futlivehd.com/global/nba4/index.m3u8?token=1dac34ad06a9379fe879bfda5dff41efb18bf978-0b-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba4",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -698,18 +867,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 11 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=e1a25b592c224f51c48d7b5b78dea6af86e6c522-1d-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=f79bd7354b1f6eb4478fd56dfd126828f4221e39-21-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba1",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -722,53 +891,53 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=32998f583f769aec7cdd75916074665bbc8f2bac-b9-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=0d372af20631d14e2c4c2443c2ef620b0263f158-05-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn2",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "NBA League Pass 1 [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=3bf2d71e57200247ba5019009d28097d8186db12-eb-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=7cf7f7aba6a72e0828b5ddd0b816c5ad5624a4e5-3b-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba1",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 [TVF90] 3",
-        "stream_url": "https://7.ftlly.com:443/espn2/mono.m3u8?token=997b1c0df0a46180e83bbf9a17168801c9c506bd-99-1795016586-1794998586",
+        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=756627b93a14fed461f696514cff0912171fc994-c3-1795023959-1795005959",
         "referer": "https://tvf90.com/1.php?stream=espn2",
         "origin": "https://tvf90.com/1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | HD [TVF90] 4",
-        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=3d1a53753cac47c21e514438e624aa66fc246340-9-1795016586-1794998586",
+        "stream_url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=d3e55762ee5b439b0a92adf2fba45be4eaf3c72a-78-1795023960-1795005960",
         "referer": "https://tvf90.com/hd.php?stream=espn2",
         "origin": "https://tvf90.com/hd.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP2 [TVF90] 5",
-        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=6da8705aba396950f09a884fc78886264ee3fdb5-d-1795016586-1794998586",
+        "stream_url": "https://7.ftlly.com:443/espn2/mono.m3u8?token=eb4f5dfd7bf63b66685bdf48b666766161f2c8f6-21-1795023960-1795005960",
         "referer": "https://tvf90.com/2.php?stream=espn2",
         "origin": "https://tvf90.com/2.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP3 [TVF90] 6",
-        "stream_url": "https://6.ftlly.com:443/espn2/mono.m3u8?token=7da6cddf2b790a40de38df40d20d8f31a16c6884-3d-1795016586-1794998586",
+        "stream_url": "https://6.ftlly.com:443/espn2/mono.m3u8?token=fde29b4c0c6a812ed8fd6d87382dba441e26c44d-ef-1795023960-1795005960",
         "referer": "https://tvf90.com/3.php?stream=espn2",
         "origin": "https://tvf90.com/3.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -781,18 +950,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 3 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba3/index.m3u8?token=620e9b563b1dde70c8c27e4c032bc16225b8c5d4-09-1795044480-1794990480",
+        "stream_url": "https://khala.futlivehd.com/global/nba3/index.m3u8?token=4b631301b15ef23dac71dacc0753f399943ede73-e3-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba3",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -805,18 +974,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 7 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba7/index.m3u8?token=74ee279684f141992eacc1a84cf1acd5cb8b92f6-a0-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba7/index.m3u8?token=61fed82b9170feaadae6fb2c02d4b85b4c4b20f3-66-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba7",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba7",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -829,18 +998,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 9 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba9/index.m3u8?token=944d53b68bd6a3a827577840e4e3f76702a7570d-4a-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba9/index.m3u8?token=34649f8c5abe2093797a2c565689242da5ee0c87-28-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba9",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba9",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -853,18 +1022,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 3 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba3/index.m3u8?token=ef8368e99e702937d2c97b1e7d94617156e90b26-a1-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba3/index.m3u8?token=5598a19ceb877a4d37f79f148e723a3dd156cc12-87-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba3",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -877,18 +1046,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 12 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=7b941a61cb95848067ca530e3df89991fa184a74-20-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=0072689c195c7782104f74762c329974c0d16d95-bd-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba2",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -901,25 +1070,25 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 2 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=28b96e58197d8bc4c6f2bc16e164587d96bec325-a1-1795044480-1794990480",
+        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=6d2d52d5ed6eb288c1f5131313393c13957acd32-0a-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba2",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "Prime Video [STRMXHD] 2",
-        "stream_url": "https://khala.futlivehd.com/global/amazon2/index.m3u8?token=1e1f27ffa03918d400b8931b20d3088f19d1d1e0-dd-1795044480-1794990480",
+        "stream_url": "https://khala.futlivehd.com/global/amazon2/index.m3u8?token=1f28cefa14a254cada8d0b308225a85fe7d5e905-71-1795051854-1794997854",
         "referer": "https://streamxhd.sbs/live1.php?stream=amazon2",
         "origin": "https://streamxhd.sbs/live1.php?stream=amazon2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -932,18 +1101,18 @@
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "NBA League Pass 6 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/nba6/index.m3u8?token=ed3b88ffdb5d332d49b7cfdb000cac7a15fed276-ac-1795044481-1794990481",
+        "stream_url": "https://khala.futlivehd.com/global/nba6/index.m3u8?token=ec374315a4c1332841a1876dcbb009b92c348cbe-84-1795051855-1794997855",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba6",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba6",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -956,18 +1125,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=_uK_mLFH-jo0QgeeuFgPSLVtfSFFwKm0b_rUxLLjzcw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u%2F&expires=1794999601/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u/89.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=TANrzUUTmerfWXFe_NQbadNyWdFeyijJXB5jZ5_h33E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u%2F&expires=1795006975/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u/89.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -980,18 +1149,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=G2iTxJn2rvDHRDBNgJ8M8MrQ2FAhDSFh7AvqSCHL73A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b%2F&expires=1794999600/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b/178.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=Jpma-cOQQ7XIHNov0lgXYk8K0j0mTgWauJWZ7Ll-tUQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b%2F&expires=1795006974/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b/178.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1004,18 +1173,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=5r6PLQxohPmIoFQkICnvzPsORciAKcXzyZXky-tILTs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ%2F&expires=1794999601/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ/174.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=99EiGX7-T0xQnrvVzQGXqeAynEKap8qlLZ-sW5NadJs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ%2F&expires=1795006975/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ/174.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1028,18 +1197,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 3 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=ee12fb8f45e24f48c9d303a4d753eadc636bf165-9e-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=2de93dd3c0369cbc8114e215ce13ba943fc42fde-a3-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn3",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1052,18 +1221,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Disney + [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=53b3f6252a422b896a8ec28dcbe392981a667f6d-87-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=e0a1980bc0bd98a2d1aa773e655999b24a57cefc-64-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=disney1",
         "origin": "https://streamxhd.sbs/live1.php?stream=disney1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1076,18 +1245,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Disney + [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=9bf4d9c34caf963b0ac5e0ea6bb3435327ba0f18-19-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=02683fa6aae951adb1fd2e06cec6116d14961d93-9b-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=disney2",
         "origin": "https://streamxhd.sbs/live1.php?stream=disney2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1100,18 +1269,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "Disney + [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/disney3/index.m3u8?token=17af222b68c0e98d6e87c95ef946dd284b0e9026-83-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/disney3/index.m3u8?token=9f2f3cea31307baaf2297ecd5c44e4a1f74fb4be-9b-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=disney3",
         "origin": "https://streamxhd.sbs/live1.php?stream=disney3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1124,18 +1293,73 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 3 [STRMXHD]",
-        "stream_url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=12082da72f55c8e5cd05fe6e853f44445988be78-f9-1795044482-1794990482",
+        "stream_url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=7b9322d31a37b1e56c8b6cd0e458ad908562b048-da-1795051856-1794997856",
         "referer": "https://streamxhd.sbs/live1.php?stream=espn3",
         "origin": "https://streamxhd.sbs/live1.php?stream=espn3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Men's Singles: Daniil Medvedev Vs Carlos Alcaraz",
+    "eventInfo": {
+      "teamA": "Men's Singles: Daniil Medvedev",
+      "teamB": "Carlos Alcaraz",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Nitto ATP Finals",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Español 1 [PLIBRE]",
+        "stream_url": "https://y2fzdgxl.fubo18.com:443/espn2/mono.m3u8?token=6f9bff39b8f2c1234f618dc20bdfc290de6e419f-95-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=espn2",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Español 2 [PLIBRE] 2",
+        "stream_url": "https://am91cm5leq.fubo18.com:443/disney2/mono.m3u8?token=9807d1da30de45caef791f01f1709a28c945ed4f-ab-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=disney2",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=disney2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Atenas Vs Fenix",
+    "eventInfo": {
+      "teamA": "Atenas",
+      "teamB": "Fenix",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png",
+      "teamBFlag": "",
+      "eventName": "Segunda División",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png",
+      "startTime": "18/11/2026 08:01:00 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Español 1 [PLIBRE]",
+        "stream_url": "https://b2ZmaWNpYWw.fubo18.com:443/disney1/mono.m3u8?token=824fce973d3a87dcdfc29f85340b9965acbd1b40-f4-1795023954-1795005954",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=disney1",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=disney1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1148,39 +1372,39 @@
       "teamBFlag": "",
       "eventName": "UEFA Women's Champions League",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 4 [TVF90]",
-        "stream_url": "https://8.ftlly.com:443/espn4/mono.m3u8?token=2ea483c9a4296d0323348c9435e940302955b29e-a4-1795016581-1794998581",
+        "stream_url": "https://8.ftlly.com:443/espn4/mono.m3u8?token=1710e8465c2c9c02461d34b200cfcbc4323c6d92-d1-1795023955-1795005955",
         "referer": "https://tvf90.com/1.php?stream=espn4",
         "origin": "https://tvf90.com/1.php?stream=espn4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 4 | HD [TVF90] 2",
-        "stream_url": "https://8.ftlly.com:443/espn4/mono.m3u8?token=d1ad1506846bb9b541f4e201b53da92d42881a9b-a5-1795016582-1794998582",
+        "stream_url": "https://3.ftlly.com:443/espn4/mono.m3u8?token=5006f2d9f626c7dad0882dec1f696c9d01fbddaf-52-1795023955-1795005955",
         "referer": "https://tvf90.com/1.php?stream=espn4",
         "origin": "https://tvf90.com/1.php?stream=espn4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 4 | OP2 [TVF90] 3",
-        "stream_url": "https://3.ftlly.com:443/espn4/mono.m3u8?token=a34776f8c2a506ea3ff4b88528613adf9d0145dd-20-1795016581-1794998581",
+        "stream_url": "https://5.ftlly.com:443/espn4/mono.m3u8?token=93bfae5093612e1ebd1262fdcea14859d37f27c9-6d-1795023955-1795005955",
         "referer": "https://tvf90.com/2.php?stream=espn4",
         "origin": "https://tvf90.com/2.php?stream=espn4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 4 | OP3 [TVF90] 4",
-        "stream_url": "https://8.ftlly.com:443/espn4/mono.m3u8?token=120277f7803c0d777a856b2dab27c450af77b34e-8a-1795016582-1794998582",
+        "stream_url": "https://10.ftlly.com:443/espn4/mono.m3u8?token=cb365fccc3e8124fa0002ab7e752c9b9a7324a52-c9-1795023955-1795005955",
         "referer": "https://tvf90.com/3.php?stream=espn4",
         "origin": "https://tvf90.com/3.php?stream=espn4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   },
   {
     "status": "LIVE",
@@ -1193,38 +1417,38 @@
       "teamBFlag": "",
       "eventName": "UEFA Women's Champions League",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
-      "startTime": "18/11/2026 05:58:07 PM"
+      "startTime": "18/11/2026 08:01:00 PM"
     },
     "streams": [
       {
         "channel_name": "ESPN 2 [TVF90]",
-        "stream_url": "https://2.ftlly.com:443/espn2/mono.m3u8?token=a0d94161dbdf7b5a5511d287d74d6e6f0ccf2080-66-1795016580-1794998580",
+        "stream_url": "https://7.ftlly.com:443/espn2/mono.m3u8?token=3111ad4c2ce01c58f9e107e5b3909b8e12b1fd8d-c7-1795023954-1795005954",
         "referer": "https://tvf90.com/1.php?stream=espn2",
         "origin": "https://tvf90.com/1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | HD [TVF90] 2",
-        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=f767907fcc35a86ef2788c51a60f96ae69779405-66-1795016581-1794998581",
+        "stream_url": "https://9.ftlly.com:443/espn2/mono.m3u8?token=49e743a92b4f89eec814ab006f889e8b1b65a760-c7-1795023955-1795005955",
         "referer": "https://tvf90.com/hd.php?stream=espn2",
         "origin": "https://tvf90.com/hd.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP2 [TVF90] 3",
-        "stream_url": "https://5.ftlly.com:443/espn2/mono.m3u8?token=7fc63e32b10e44e2ede4b390a834297d66852624-c6-1795016581-1794998581",
+        "stream_url": "https://3.ftlly.com:443/espn2/mono.m3u8?token=53c92901a2296b1cbbea2c2660ee2759e1a5fb43-26-1795023954-1795005954",
         "referer": "https://tvf90.com/2.php?stream=espn2",
         "origin": "https://tvf90.com/2.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
         "channel_name": "ESPN 2 | OP3 [TVF90] 4",
-        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=963e6f9043d0da289bb8f6a0f867e9b2d88e60f4-b9-1795016581-1794998581",
+        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=cf5aeec9035e1baebbbe5d45a3c7aef7fe7a4363-62-1795023955-1795005955",
         "referer": "https://tvf90.com/3.php?stream=espn2",
         "origin": "https://tvf90.com/3.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1794999487
+    "timestamp": 1795006860
   }
 ]
