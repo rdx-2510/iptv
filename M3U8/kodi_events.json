@@ -1,6 +1,30 @@
 [
   {
     "status": "LIVE",
+    "Category": "Tennis",
+    "event_name": "DOBLES - Finals - Turín, dura: Arevalo M. / Pavic M. Vs Luz O. / Matos R.",
+    "eventInfo": {
+      "teamA": "DOBLES - Finals - Turín, dura: Arevalo M. / Pavic M.",
+      "teamB": "Luz O. / Matos R.",
+      "teamAFlag": "https://files.catbox.moe/q8ljra.png",
+      "teamBFlag": "",
+      "eventName": "ATP",
+      "event_logo": "https://files.catbox.moe/q8ljra.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney+ [TVF90]",
+        "stream_url": "https://3.ftlly.com:443/disney21/mono.m3u8?token=e5383ca77b0538ea16781716c6e6b8cd32dd9d6d-3-1795089314-1795071314",
+        "referer": "https://tvf90.com/plus1.php?stream=disney21",
+        "origin": "https://tvf90.com/plus1.php?stream=disney21",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
     "Category": "Basketball",
     "event_name": "Illawarra Hawks Vs Adelaide",
     "eventInfo": {
@@ -10,7 +34,7 @@
       "teamBFlag": "",
       "eventName": "Basketball NBL",
       "event_logo": "https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -21,158 +45,599 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Football",
-    "event_name": "Corinthians Vs Botafogo",
+    "event_name": "São Paulo Vs Fluminense",
     "eventInfo": {
-      "teamA": "Corinthians",
-      "teamB": "Botafogo",
+      "teamA": "São Paulo",
+      "teamB": "Fluminense",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere3/mono.m3u8?token=ab915a466431ff214941f1f9f70c1d3e435ac4bf-88-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere3",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere3",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Football",
-    "event_name": "Coritiba Vs Santos",
-    "eventInfo": {
-      "teamA": "Coritiba",
-      "teamB": "Santos",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "teamBFlag": "",
-      "eventName": "Brasileirão",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere7/mono.m3u8?token=632a3d39d6c5fc9aac6731c3eacacc16f9fc67a4-4d-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere7",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere7",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Football",
-    "event_name": "Cruzeiro Vs Palmeiras",
-    "eventInfo": {
-      "teamA": "Cruzeiro",
-      "teamB": "Palmeiras",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "teamBFlag": "",
-      "eventName": "Brasileirão",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere2/mono.m3u8?token=d8ede58ee677f01ae68ddf9accf37a4fe64160e9-73-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere2",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Football",
-    "event_name": "Flamengo Vs Athletico-PR",
-    "eventInfo": {
-      "teamA": "Flamengo",
-      "teamB": "Athletico-PR",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "teamBFlag": "",
-      "eventName": "Brasileirão",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere1/mono.m3u8?token=6a239d7a052b0c0da7c8c63616307bc44b64707d-d9-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere1",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere1",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://b2ZmaWNpYWw.fubo18.com:443/premiere2/mono.m3u8?token=41310c3272eb5a27ca8671fab8ab1ba8571b82bf-81-1795089314-1795071314",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere2",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "STP 2",
-        "stream_url": "https://99.envivosenhd.beer:443/global/sportv1/mono.m3u8?token=c318165a26d1cc068a5085bbc6b5cd65e2332cc3-bd-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=sportv1",
-        "origin": "https://streamx723.sbs/global1.php?channel=sportv1",
+        "channel_name": "Premiere 2 [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/premiere2/index.m3u8?token=1645c191c44bfd88d506ef7a4488b2baa18c9625-1c-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=premiere2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=premiere2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Football",
-    "event_name": "Grêmio Vs Bahia",
+    "event_name": "Vasco da Gama Vs Internacional",
     "eventInfo": {
-      "teamA": "Grêmio",
-      "teamB": "Bahia",
+      "teamA": "Vasco da Gama",
+      "teamB": "Internacional",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere5/mono.m3u8?token=e272f6587860e6df312c78c93a3df57aa221cf91-33-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere5",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere5",
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://bgvnzw5k.fubo18.com:443/premiere1/mono.m3u8?token=84683d4628c8cb3e5af3b96f769d16c7b79ab13c-69-1795089314-1795071314",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Premiere 1 [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/premiere1/index.m3u8?token=f293e35a1c106c129981a3287379164f814dda5d-24-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=premiere1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=premiere1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Sportv BR [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=40114087366a595fe09ba1793cf661a328074f70-8c-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Sportv BR [TVF90] 4",
+        "stream_url": "https://6.ftlly.com:443/sportv/mono.m3u8?token=3133df627292c07832b81eb4e0cedd86842dca82-84-1795089319-1795071319",
+        "referer": "https://tvf90.com/1.php?stream=sportv",
+        "origin": "https://tvf90.com/1.php?stream=sportv",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Sportv BR HD [TVF90] 5",
+        "stream_url": "https://10.ftlly.com:443/sportv/mono.m3u8?token=67a5a5a63b0fd9fd6cf4aee84e15c503b611c3c5-c1-1795089319-1795071319",
+        "referer": "https://tvf90.com/hd.php?stream=sportv",
+        "origin": "https://tvf90.com/hd.php?stream=sportv",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Football",
-    "event_name": "Remo Vs Chapecoense",
+    "event_name": "Vitória Vs RB Bragantino",
     "eventInfo": {
-      "teamA": "Remo",
-      "teamB": "Chapecoense",
+      "teamA": "Vitória",
+      "teamB": "RB Bragantino",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
       "teamBFlag": "",
       "eventName": "Brasileirão",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/premiere6/mono.m3u8?token=56494b8446f2dbd6595f3ba5e14b96b8f6179a7a-1b-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=premiere6",
-        "origin": "https://streamx723.sbs/global1.php?channel=premiere6",
+        "channel_name": "Premiere 3 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/premiere3/index.m3u8?token=c724cf686efab0496720bec6a584a6fe80f9df89-bf-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=premiere3",
+        "origin": "https://streamxhd.sbs/live1.php?stream=premiere3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Vitória Vs Red Bull Bragantino",
+    "eventInfo": {
+      "teamA": "Vitória",
+      "teamB": "Red Bull Bragantino",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "teamBFlag": "",
+      "eventName": "Brasileirão",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Portugués 1 [PLIBRE]",
+        "stream_url": "https://a2lja3m.fubo18.com:443/premiere3/mono.m3u8?token=cd61d39a2ea9a5c56521ff03d5b2f19aace10b66-8e-1795089314-1795071314",
+        "referer": "https://la18hd.su/vivo/canales.php?stream=premiere3",
+        "origin": "https://la18hd.su/vivo/canales.php?stream=premiere3",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Arsenal Vs OL Lyonnes",
+    "eventInfo": {
+      "teamA": "Arsenal",
+      "teamB": "OL Lyonnes",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Champions League Femenina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "ESPN 5 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/espn5/index.m3u8?token=da8e9011262df753f3fec9566470aef181e3f709-82-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "origin": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Austria Wien Vs Bayern",
+    "eventInfo": {
+      "teamA": "Austria Wien",
+      "teamB": "Bayern",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Champions League Femenina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=ca66ce31713abd610955bf9744b96354bec52d09-d4-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Barcelona Vs Servette Chênois Féminin",
+    "eventInfo": {
+      "teamA": "Barcelona",
+      "teamB": "Servette Chênois Féminin",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Champions League Femenina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney7/index.m3u8?token=38608e3c4d461695cdb5da7b4175d230b433806c-ea-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney7",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Paris FC Vs Køge Kvinder",
+    "eventInfo": {
+      "teamA": "Paris FC",
+      "teamB": "Køge Kvinder",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Champions League Femenina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=dcfd3dfc97fe7f40b9c25754866d1fe530115358-d8-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "SL Benfica Vs Roma",
+    "eventInfo": {
+      "teamA": "SL Benfica",
+      "teamB": "Roma",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Champions League Femenina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney8/index.m3u8?token=62c7016f5b33919b0e8caecccdab776f1fb3c829-fc-1795117214-1795063214",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney8",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Arabia Saudita Vs Uruguay",
+    "eventInfo": {
+      "teamA": "Arabia Saudita",
+      "teamB": "Uruguay",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub-17",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "DSports [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/dsports/index.m3u8?token=e84acaa93df7e41e164e088eee4f27ef5ba494bb-56-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=dsports",
+        "origin": "https://streamxhd.sbs/live1.php?stream=dsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Argentina Vs Australia",
+    "eventInfo": {
+      "teamA": "Argentina",
+      "teamB": "Australia",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub-17",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "DSports Plus [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/dsportsplus/index.m3u8?token=5b2b69de367161a1f887a938cc353306e9888a36-f4-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
+        "origin": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Catar Vs Panamá",
+    "eventInfo": {
+      "teamA": "Catar",
+      "teamB": "Panamá",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub-17",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "TUDN MX [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/tudnmx/index.m3u8?token=c37c4fc0809a4a8b6bfb4b720efce3ad3e2e041d-7a-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "origin": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Nueva Caledonia Vs Ecuador",
+    "eventInfo": {
+      "teamA": "Nueva Caledonia",
+      "teamB": "Ecuador",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub-17",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "DSports 2 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/dsports2/index.m3u8?token=347ce53701e221007249f49f731c8b14422d58a4-a7-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Arabia Saudita Vs Uruguay",
+    "eventInfo": {
+      "teamA": "17: Arabia Saudita",
+      "teamB": "Uruguay",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Fox Soccer Plus [TVF90]",
+        "stream_url": "https://11.ftlly.com:443/foxsoccerplus/mono.m3u8?token=fe85285c82c1d66565f8c0b700156518ed603a50-80-1795089320-1795071320",
+        "referer": "https://tvf90.com/1.php?stream=foxsoccerplus",
+        "origin": "https://tvf90.com/1.php?stream=foxsoccerplus",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Argentina Vs Australia",
+    "eventInfo": {
+      "teamA": "17: Argentina",
+      "teamB": "Australia",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "DSports [TVF90]",
+        "stream_url": "https://2.ftlly.com:443/dsports/mono.m3u8?token=11499d2f071b715038946e6574c7c166e7eecced-8c-1795089315-1795071315",
+        "referer": "https://tvf90.com/plus1.php?stream=dsports",
+        "origin": "https://tvf90.com/plus1.php?stream=dsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "DSports | OP2 [TVF90] 2",
+        "stream_url": "https://2.ftlly.com:443/dsports/mono.m3u8?token=b4fdb1bdad8e113c644abc084233288b0da38680-7e-1795089316-1795071316",
+        "referer": "https://tvf90.com/1.php?stream=dsports",
+        "origin": "https://tvf90.com/1.php?stream=dsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "DSports | OP3 [TVF90] 3",
+        "stream_url": "https://10.ftlly.com:443/dsports/mono.m3u8?token=0afe857592caa564321495bbf1b7b63cb608ea09-24-1795089316-1795071316",
+        "referer": "https://tvf90.com/2.php?stream=dsports",
+        "origin": "https://tvf90.com/2.php?stream=dsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Fox Soccer Plus [TVF90] 4",
+        "stream_url": "https://3.ftlly.com:443/foxsoccerplus/mono.m3u8?token=5f83010e5c4f8de0bf2eab885aca983162f60419-d-1795089317-1795071317",
+        "referer": "https://tvf90.com/1.php?stream=foxsoccerplus",
+        "origin": "https://tvf90.com/1.php?stream=foxsoccerplus",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "TYC Sports [TVF90] 5",
+        "stream_url": "https://2.ftlly.com:443/tycsports/mono.m3u8?token=072bea2813499d181fe6f838c6092d52135f237a-37-1795089316-1795071316",
+        "referer": "https://tvf90.com/1.php?stream=tycsports",
+        "origin": "https://tvf90.com/1.php?stream=tycsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "TYC Sports | HD [TVF90] 6",
+        "stream_url": "https://11.ftlly.com:443/tycsports/mono.m3u8?token=a8cccb7d3ee2f60ba9c7ce8bd7acf97c0eb63204-22-1795089316-1795071316",
+        "referer": "https://tvf90.com/hd.php?stream=tycsports",
+        "origin": "https://tvf90.com/hd.php?stream=tycsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "TYC Sports | OP3 [TVF90] 7",
+        "stream_url": "https://9.ftlly.com:443/tycsports/mono.m3u8?token=569a9ff5f64d98f9a1b4ca7d2fc814d109fa4844-b5-1795089316-1795071316",
+        "referer": "https://tvf90.com/3.php?stream=tycsports",
+        "origin": "https://tvf90.com/3.php?stream=tycsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "TyC Sports | OP2 [TVF90] 8",
+        "stream_url": "https://6.ftlly.com:443/tycsports/mono.m3u8?token=83d164b8445334b5580202d7db944d4c0fa80555-10-1795089316-1795071316",
+        "referer": "https://tvf90.com/2.php?stream=tycsports",
+        "origin": "https://tvf90.com/2.php?stream=tycsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Francia Vs Haití",
+    "eventInfo": {
+      "teamA": "17: Francia",
+      "teamB": "Haití",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Fox Sports 2 USA [TVF90]",
+        "stream_url": "https://3.ftlly.com:443/foxsports2_usa/mono.m3u8?token=12e22ecce99131ef508e68546a835d7047240735-be-1795089314-1795071314",
+        "referer": "https://tvf90.com/1.php?stream=foxsports2_usa",
+        "origin": "https://tvf90.com/1.php?stream=foxsports2_usa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Fox Sports 2 USA | OP2 [TVF90] 2",
+        "stream_url": "https://8.ftlly.com:443/foxsports2_usa/mono.m3u8?token=fee7f6abd4129f3ccefd21b904f5918d2573f7f8-b5-1795089314-1795071314",
+        "referer": "https://tvf90.com/2.php?stream=foxsports2_usa",
+        "origin": "https://tvf90.com/2.php?stream=foxsports2_usa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Mozambique Vs Dinamarca",
+    "eventInfo": {
+      "teamA": "17: Mozambique",
+      "teamB": "Dinamarca",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Fox Sports 2 USA [TVF90]",
+        "stream_url": "https://8.ftlly.com:443/foxsports2_usa/mono.m3u8?token=ed4b065a1ce09046dd777021e7fc8c2caa373366-8b-1795089315-1795071315",
+        "referer": "https://tvf90.com/1.php?stream=foxsports2_usa",
+        "origin": "https://tvf90.com/1.php?stream=foxsports2_usa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Fox Sports 2 USA | OP2 [TVF90] 2",
+        "stream_url": "https://11.ftlly.com:443/foxsports2_usa/mono.m3u8?token=50842e9d29f3ec5c5cb6db6c1e039701e97ef541-79-1795089315-1795071315",
+        "referer": "https://tvf90.com/2.php?stream=foxsports2_usa",
+        "origin": "https://tvf90.com/2.php?stream=foxsports2_usa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Nueva Caledonia Vs Ecuador",
+    "eventInfo": {
+      "teamA": "17: Nueva Caledonia",
+      "teamB": "Ecuador",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "DSports [TVF90]",
+        "stream_url": "https://6.ftlly.com:443/dsports/mono.m3u8?token=a0398cc9208dfba1452c40d8f7729fb867b2eeb1-a1-1795089314-1795071314",
+        "referer": "https://tvf90.com/plus1.php?stream=dsports",
+        "origin": "https://tvf90.com/plus1.php?stream=dsports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "17: Qatar Vs Panamá",
+    "eventInfo": {
+      "teamA": "17: Qatar",
+      "teamB": "Panamá",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa Mundial Sub",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Caracol TV [TVF90]",
+        "stream_url": "https://6.ftlly.com:443/caracol/mono.m3u8?token=1c0d16ff6b6e79a797881a168698955876cc14b1-16-1795089320-1795071320",
+        "referer": "https://tvf90.com/1.php?stream=caracol",
+        "origin": "https://tvf90.com/1.php?stream=caracol",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "TUDN MX [TVF90] 2",
+        "stream_url": "https://9.ftlly.com:443/tudn_mx/mono.m3u8?token=7800a34c96acd464503db5d29244b872a52192a8-7d-1795089320-1795071320",
+        "referer": "https://tvf90.com/1.php?stream=tudn_mx",
+        "origin": "https://tvf90.com/1.php?stream=tudn_mx",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Live Events",
+    "event_name": "Celta de Vigo Vs Espanyol",
+    "eventInfo": {
+      "teamA": "Celta de Vigo",
+      "teamB": "Espanyol",
+      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamBFlag": "",
+      "eventName": "Copa de la Reina",
+      "event_logo": "https://files.catbox.moe/jd3pxq.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney3/index.m3u8?token=fc8243b8032a8bfb1b63bed5bf7d682c09b3df88-24-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney3",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney3",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 4 MX [TVF90] 2",
+        "stream_url": "https://4.ftlly.com:443/espn4mx/mono.m3u8?token=1038e33d57b5d3ee17a0b92014ae371e636855c4-5b-1795089317-1795071317",
+        "referer": "https://tvf90.com/1.php?stream=espn4mx",
+        "origin": "https://tvf90.com/1.php?stream=espn4mx",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -185,7 +650,7 @@
       "teamBFlag": "",
       "eventName": "Cricket WBBL",
       "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -196,7 +661,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -209,7 +674,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -220,7 +685,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -233,7 +698,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -244,7 +709,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -257,7 +722,7 @@
       "teamBFlag": "",
       "eventName": "Cricket",
       "event_logo": "https://files.catbox.moe/rwd8mv.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -268,31 +733,127 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Football",
-    "event_name": "Alianza Atlético Vs Melgar",
+    "event_name": "Boston River Vs Deportivo Maldonado",
     "eventInfo": {
-      "teamA": "Alianza Atlético",
-      "teamB": "Melgar",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png",
+      "teamA": "Boston River",
+      "teamB": "Deportivo Maldonado",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
       "teamBFlag": "",
-      "eventName": "Liga 1",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "eventName": "Liga Uruguay",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/liga1max/mono.m3u8?token=5741894194b6e2c1be13b8b2688e573d75aea82d-19-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=liga1max",
-        "origin": "https://streamx723.sbs/global1.php?channel=liga1max",
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney6/index.m3u8?token=ac0bd9dcc67afb40c82461c9dc241647fd8cb76a-74-1795117216-1795063216",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney6",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney6",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Peñarol Vs Cerro Largo",
+    "eventInfo": {
+      "teamA": "Peñarol",
+      "teamB": "Cerro Largo",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+      "teamBFlag": "",
+      "eventName": "Liga Uruguay",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney5/index.m3u8?token=b49a3908d00bb4e57beeb9c87436446288b41ca2-25-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney5",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Progreso Vs Torque",
+    "eventInfo": {
+      "teamA": "Progreso",
+      "teamB": "Torque",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+      "teamBFlag": "",
+      "eventName": "Liga Uruguay",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney4/index.m3u8?token=6b26d4b604f665c801a9af2ae2d765e5781d9f2b-9a-1795117215-1795063215",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney4",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney4",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Orlando City SC Vs Cincinnati",
+    "eventInfo": {
+      "teamA": "Orlando City SC",
+      "teamB": "Cincinnati",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png",
+      "teamBFlag": "",
+      "eventName": "MLS",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Apple TV 1 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/appletv1/index.m3u8?token=4f34fa85244bae1be4a8ebe08f633dc0b60776b7-20-1795117216-1795063216",
+        "referer": "https://streamxhd.sbs/live1.php?stream=appletv1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=appletv1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Football",
+    "event_name": "Seattle Sounders FC Vs Real Salt Lake",
+    "eventInfo": {
+      "teamA": "Seattle Sounders FC",
+      "teamB": "Real Salt Lake",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png",
+      "teamBFlag": "",
+      "eventName": "MLS",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "Apple TV 2 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/appletv2/index.m3u8?token=ff18b3e9a8e4adc14c19ee748b876a3b12137bd9-cc-1795117216-1795063216",
+        "referer": "https://streamxhd.sbs/live1.php?stream=appletv2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=appletv2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -305,7 +866,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -323,14 +884,14 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "NBA [TVF90] 3",
-        "stream_url": "https://5.ftlly.com:443/nba09/mono.m3u8?token=a772d853b19633516783ff05387387b7d9c0e482-51-1795081437-1795063437",
-        "referer": "https://tvf90.com/1.php?stream=nba09",
-        "origin": "https://tvf90.com/1.php?stream=nba09",
+        "channel_name": "NBA League Pass 8 [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/nba8/index.m3u8?token=7f1fc0225a1d59d75ecdfcfbf63aaa9543dd7454-ba-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba8",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -343,7 +904,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -361,56 +922,21 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Disney+ [TVF90] 3",
-        "stream_url": "https://6.ftlly.com:443/disney24/mono.m3u8?token=b6476392ff2e8fd998879eed9dc39672311e2211-db-1795081436-1795063436",
-        "referer": "https://tvf90.com/plus1.php?stream=disney24",
-        "origin": "https://tvf90.com/plus1.php?stream=disney24",
+        "channel_name": "ESPN 2 [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=13da17f20954c78b9894bf0bbc033b291044a4ad-5b-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=espn2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "ESPN 2 [TVF90] 4",
-        "stream_url": "https://9.ftlly.com:443/espn2/mono.m3u8?token=119443ad13a41d7f7cfc18dea26385ed1c926882-93-1795081436-1795063436",
-        "referer": "https://tvf90.com/1.php?stream=espn2",
-        "origin": "https://tvf90.com/1.php?stream=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "ESPN 2 | HD [TVF90] 5",
-        "stream_url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=d5c4b76e7a7fd3e4df0c978c1dd993e046d43146-a0-1795081436-1795063436",
-        "referer": "https://tvf90.com/hd.php?stream=espn2",
-        "origin": "https://tvf90.com/hd.php?stream=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "ESPN 2 | OP2 [TVF90] 6",
-        "stream_url": "https://3.ftlly.com:443/espn2/mono.m3u8?token=6a472530c534299235dcefcdac6e1144bbddcf2a-d4-1795081436-1795063436",
-        "referer": "https://tvf90.com/2.php?stream=espn2",
-        "origin": "https://tvf90.com/2.php?stream=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "ESPN 2 | OP3 [TVF90] 7",
-        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=c0691152e6fe349c0284c7902e3aa56b42b9aff7-65-1795081436-1795063436",
-        "referer": "https://tvf90.com/3.php?stream=espn2",
-        "origin": "https://tvf90.com/3.php?stream=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "Español 1 [PLIBRE] 8",
-        "stream_url": "https://dw5pdgvk.fubo18.com:443/espn2/mono.m3u8?token=c963443746d5ca93e6d9960fa6762cbf72208c9d-8f-1795081435-1795063435",
-        "referer": "https://la18hd.su/vivo/canales.php?stream=espn2",
-        "origin": "https://la18hd.su/vivo/canales.php?stream=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "Español 2 [PLIBRE] 9",
-        "stream_url": "https://a2lja3m.fubo18.com:443/disney9/mono.m3u8?token=b4871591a853b311037ed9e09104653ad8bf6a01-42-1795081435-1795063435",
-        "referer": "https://la18hd.su/vivo/canales.php?stream=disney9",
-        "origin": "https://la18hd.su/vivo/canales.php?stream=disney9",
+        "channel_name": "NBA League Pass 10 [STRMXHD] 4",
+        "stream_url": "https://khala.futlivehd.com/global/nba10/index.m3u8?token=69095b3902b34acbc1d5e2ec810a9ddd9edb3140-85-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba10",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba10",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -423,7 +949,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -439,30 +965,9 @@
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "Español 1 [PLIBRE] 3",
-        "stream_url": "https://bgvnzw5k.fubo18.com:443/nba10/mono.m3u8?token=985af093b7bb693a9ef39c888840456f6aee9ddc-61-1795081435-1795063435",
-        "referer": "https://la18hd.su/vivo/canales.php?stream=nba10",
-        "origin": "https://la18hd.su/vivo/canales.php?stream=nba10",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "NBA [TVF90] 4",
-        "stream_url": "https://10.ftlly.com:443/nba10/mono.m3u8?token=fb66aba5ed743ab9b483fab06e7661284e5da850-6c-1795081437-1795063437",
-        "referer": "https://tvf90.com/1.php?stream=nba10",
-        "origin": "https://tvf90.com/1.php?stream=nba10",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "NBA League Pass 1 [STRMXHD] 5",
-        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=d334be10d429a9ad8c1af7ff86b34b30edd13491-fa-1795109335-1795055335",
-        "referer": "https://streamxhd.sbs/live1.php?stream=nba1",
-        "origin": "https://streamxhd.sbs/live1.php?stream=nba1",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -475,7 +980,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -491,9 +996,16 @@
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "NBA League Pass 7 [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/nba7/index.m3u8?token=673be1ad7636aec969efcad918ff3ae776c5ccab-2e-1795117217-1795063217",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba7",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -506,7 +1018,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -522,9 +1034,16 @@
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "NBA League Pass 9 [STRMXHD] 3",
+        "stream_url": "https://khala.futlivehd.com/global/nba9/index.m3u8?token=6a284618c190c45101b983af2b557473a80900c4-76-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba9",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba9",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -537,7 +1056,7 @@
       "teamBFlag": "",
       "eventName": "NBA Basketball",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -553,164 +1072,160 @@
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Basketball",
+    "event_name": "Brooklyn Nets Vs Chicago Bulls",
+    "eventInfo": {
+      "teamA": "Brooklyn Nets",
+      "teamB": "Chicago Bulls",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "teamBFlag": "",
+      "eventName": "NBA",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
       {
-        "channel_name": "Español 1 [PLIBRE] 3",
-        "stream_url": "https://ewvz.fubo18.com:443/nba11/mono.m3u8?token=c98dcb4ece0dcd13594ee3c97cc4f20e8f7761ed-98-1795081435-1795063435",
-        "referer": "https://la18hd.su/vivo/canales.php?stream=nba11",
-        "origin": "https://la18hd.su/vivo/canales.php?stream=nba11",
+        "channel_name": "NBA League Pass 5 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba5/index.m3u8?token=b8a85b14e073f6549ca5c9a664be3f18d723e012-72-1795117217-1795063217",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba5",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Basketball",
+    "event_name": "Memphis Grizzlies Vs Golden State Warriors",
+    "eventInfo": {
+      "teamA": "Memphis Grizzlies",
+      "teamB": "Golden State Warriors",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "teamBFlag": "",
+      "eventName": "NBA",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
       {
-        "channel_name": "NBA [TVF90] 4",
-        "stream_url": "https://11.ftlly.com:443/nba11/mono.m3u8?token=6e0f73bc89d57cfc69e990f249e313346e6cebfe-8b-1795081436-1795063436",
-        "referer": "https://tvf90.com/1.php?stream=nba11",
-        "origin": "https://tvf90.com/1.php?stream=nba11",
+        "channel_name": "NBA League Pass 4 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba4/index.m3u8?token=c2e042d504fd17a31878b852a42f7404709547d1-46-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba4",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba4",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Basketball",
+    "event_name": "Milwaukee Bucks Vs Portland Trail Blazers",
+    "eventInfo": {
+      "teamA": "Milwaukee Bucks",
+      "teamB": "Portland Trail Blazers",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "teamBFlag": "",
+      "eventName": "NBA",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
       {
-        "channel_name": "NBA League Pass 2 [STRMXHD] 5",
-        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=a119ca214e22919cb835308dc98b3ece357ae5b5-54-1795109335-1795055335",
+        "channel_name": "NBA League Pass 2 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba2/index.m3u8?token=1fef2edffa6507ff424749a1af88b31824efbc7a-98-1795117218-1795063218",
         "referer": "https://streamxhd.sbs/live1.php?stream=nba2",
         "origin": "https://streamxhd.sbs/live1.php?stream=nba2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Basketball",
-    "event_name": "Boston Celtics Vs Denver Nuggets",
+    "event_name": "Minnesota Timberwolves Vs New York Knicks",
     "eventInfo": {
-      "teamA": "Boston Celtics",
-      "teamB": "Denver Nuggets",
+      "teamA": "Minnesota Timberwolves",
+      "teamB": "New York Knicks",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "English [STRMGATE]",
-        "stream_url": "https://edge.candyshop.st/live/tv401910015/master.m3u8?st=AGMZNy-4PTh-3bgRWTi6HQ&e=1795075136",
-        "referer": "https://xstream.st/livetv.php?stream=tv401910015",
-        "origin": "https://xstream.st/livetv.php?stream=tv401910015",
+        "channel_name": "NBA League Pass 3 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba3/index.m3u8?token=2ff2be0d8587bfacbfa4649660426411ab38627c-d7-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba3",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Basketball",
-    "event_name": "Bucks Vs Heat",
+    "event_name": "San Antonio Spurs Vs Los Angeles Clippers",
     "eventInfo": {
-      "teamA": "Bucks",
-      "teamB": "Heat",
+      "teamA": "San Antonio Spurs",
+      "teamB": "Los Angeles Clippers",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn2/mono.m3u8?token=d82939232bc2d7b2395caf3940eea075ed3e2dad-39-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn2",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn2",
+        "channel_name": "NBA League Pass 1 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba1/index.m3u8?token=adfa17b64c2eb195e992729fe5dd87dc063349dd-42-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "STP 2",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn2cl/mono.m3u8?token=c87cb847767782d48403746460a6366d068292a2-0c-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn2cl",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn2cl",
+        "channel_name": "Prime Video [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/amazon1/index.m3u8?token=a435d0d12bf016449f4f9f90082eccd73f89609a-c0-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=amazon1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=amazon1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Basketball",
-    "event_name": "Celtics Vs Nuggets",
+    "event_name": "Toronto Raptors Vs Washington Wizards",
     "eventInfo": {
-      "teamA": "Celtics",
-      "teamB": "Nuggets",
+      "teamA": "Toronto Raptors",
+      "teamB": "Washington Wizards",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
       "teamBFlag": "",
       "eventName": "NBA",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn2/mono.m3u8?token=c34260cadb3bebc50f2dbb314f3797caf44020c1-90-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn2",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn2",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "STP 2",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn2cl/mono.m3u8?token=61640bace36a57ce128679c285c78734deb6bcb9-9c-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn2cl",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn2cl",
+        "channel_name": "NBA League Pass 6 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/nba6/index.m3u8?token=3a59acf2cd6595a41eb94824b61b6ce0e74bbe6a-e5-1795117217-1795063217",
+        "referer": "https://streamxhd.sbs/live1.php?stream=nba6",
+        "origin": "https://streamxhd.sbs/live1.php?stream=nba6",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Basketball",
-    "event_name": "Phoenix Suns Vs Sacramento Kings",
-    "eventInfo": {
-      "teamA": "Phoenix Suns",
-      "teamB": "Sacramento Kings",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "teamBFlag": "",
-      "eventName": "NBA",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "English [STRMGATE]",
-        "stream_url": "https://edge1.candyshop.st/live/tv401910018/master.m3u8?st=oGGs--pPLOXYmOXdTniWpg&e=1795075137",
-        "referer": "https://xstream.st/livetv.php?stream=tv401910018",
-        "origin": "https://xstream.st/livetv.php?stream=tv401910018",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Basketball",
-    "event_name": "Utah Jazz Vs Los Angeles Lakers",
-    "eventInfo": {
-      "teamA": "Utah Jazz",
-      "teamB": "Los Angeles Lakers",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "teamBFlag": "",
-      "eventName": "NBA",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "English [STRMGATE]",
-        "stream_url": "https://edge1.candyshop.st/live/tv401910017/master.m3u8?st=j21WO6Kp6vk7qu38rrX1uA&e=1795075137",
-        "referer": "https://xstream.st/livetv.php?stream=tv401910017",
-        "origin": "https://xstream.st/livetv.php?stream=tv401910017",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -723,7 +1238,7 @@
       "teamBFlag": "",
       "eventName": "NCAA American Football",
       "event_logo": "https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -734,7 +1249,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -747,7 +1262,7 @@
       "teamBFlag": "",
       "eventName": "NCAA American Football",
       "event_logo": "https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -758,7 +1273,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -771,7 +1286,7 @@
       "teamBFlag": "",
       "eventName": "NCAA Basketball",
       "event_logo": "https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -782,7 +1297,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -795,7 +1310,7 @@
       "teamBFlag": "",
       "eventName": "NCAA Basketball",
       "event_logo": "https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -806,31 +1321,59 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Live Events",
-    "event_name": "UNLV Vs Auburn (Consolation #2)",
+    "event_name": "Houston Texans Vs Indianapolis Colts",
     "eventInfo": {
-      "teamA": "UNLV",
-      "teamB": "Auburn (Consolation #2)",
-      "teamAFlag": "https://files.catbox.moe/jd3pxq.png",
+      "teamA": "Houston Texans",
+      "teamB": "Indianapolis Colts",
+      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
       "teamBFlag": "",
-      "eventName": "NCAA Mens Basketball",
-      "event_logo": "https://files.catbox.moe/jd3pxq.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "eventName": "NFL",
+      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png",
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "Disney+ [TVF90]",
-        "stream_url": "https://4.ftlly.com:443/disney27/mono.m3u8?token=d223b1938ea8f5a81058ff2464a46055c47cb578-34-1795081437-1795063437",
-        "referer": "https://tvf90.com/plus1.php?stream=disney27",
-        "origin": "https://tvf90.com/plus1.php?stream=disney27",
+        "channel_name": "ESPN 5 [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/espn5/index.m3u8?token=46dd854d9d2c84ab052a523066c3cb3a9182dd67-dc-1795117217-1795063217",
+        "referer": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "origin": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 [TVF90] 2",
+        "stream_url": "https://11.ftlly.com:443/espn5/mono.m3u8?token=0ef335cfbd373cd64a09a8ebfb0c0dbba15c9dae-b7-1795089319-1795071319",
+        "referer": "https://tvf90.com/1.php?stream=espn5",
+        "origin": "https://tvf90.com/1.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 | HD [TVF90] 3",
+        "stream_url": "https://11.ftlly.com:443/espn5/mono.m3u8?token=15eaaf5ca4f49d1dad6efc5a700d211c19e7f50b-10-1795089319-1795071319",
+        "referer": "https://tvf90.com/hd.php?stream=espn5",
+        "origin": "https://tvf90.com/hd.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 | OP2 [TVF90] 4",
+        "stream_url": "https://11.ftlly.com:443/espn5/mono.m3u8?token=192c4eb1c01580641a38d9ba991869dd6c65c6c0-59-1795089319-1795071319",
+        "referer": "https://tvf90.com/2.php?stream=espn5",
+        "origin": "https://tvf90.com/2.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 | OP3 [TVF90] 5",
+        "stream_url": "https://2.ftlly.com:443/espn5/mono.m3u8?token=33a92648dfb620b6fe9b2a2629efd5d0f7cf683d-19-1795089319-1795071319",
+        "referer": "https://tvf90.com/3.php?stream=espn5",
+        "origin": "https://tvf90.com/3.php?stream=espn5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -843,7 +1386,7 @@
       "teamBFlag": "",
       "eventName": "NHL Hockey",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -852,9 +1395,16 @@
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "Disney + [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/disney1/index.m3u8?token=a53330368388450d6be3b48a3df2bf8cf85530d7-34-1795117218-1795063218",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -867,7 +1417,7 @@
       "teamBFlag": "",
       "eventName": "NHL Hockey",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -878,7 +1428,7 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -891,7 +1441,7 @@
       "teamBFlag": "",
       "eventName": "NHL Hockey",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
@@ -902,21 +1452,14 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "Disney+ [TVF90] 2",
-        "stream_url": "https://5.ftlly.com:443/disney12/mono.m3u8?token=4f26b8777be129c9c206f027c001c9fd8f3c9dc7-13-1795081435-1795063435",
-        "referer": "https://tvf90.com/1.php?stream=disney12",
-        "origin": "https://tvf90.com/1.php?stream=disney12",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "Español 1 [PLIBRE] 3",
-        "stream_url": "https://ym9yzq.fubo18.com:443/disney12/mono.m3u8?token=da20f4366fe765e7c1e468cdbbac2d19730a463e-c8-1795081435-1795063435",
-        "referer": "https://la18hd.su/vivo/canales.php?stream=disney12",
-        "origin": "https://la18hd.su/vivo/canales.php?stream=disney12",
+        "channel_name": "Disney + [STRMXHD] 2",
+        "stream_url": "https://khala.futlivehd.com/global/disney3/index.m3u8?token=78890348b17d04d175e9f2cd6718fb9b55ba5834-1e-1795117219-1795063219",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney3",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney3",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -929,18 +1472,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=qZNbVmexbEMV5zZLwMpSEPVmlvne7490otaANIfVAaA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u%2F&expires=1795064456/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u/89.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=Ew1JMQ89hmX6PC69OPbXMUPb7TMeHDyGOiqwFM2vhKg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u%2F&expires=1795072335/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHSAWH4MBDGBLVmwIkvx00u/89.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -953,18 +1496,18 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=RL6rQjVoLKCOYR6TgkuFPGcpcSk7AJ-kRyza3LQp1mw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b%2F&expires=1795064455/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b/178.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=sDj74EYEL2X4wLpPrvh6N80pUNteFVQwq4JXyBZ93Gc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b%2F&expires=1795072334/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHG3WwZYebQe3wHJKyxkK1b/178.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
@@ -977,110 +1520,176 @@
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
         "channel_name": "WEBCAST",
-        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=XWhfE41Nt0DUkYMKiAiHtWD2HPgjzk_LfspsiBmnTOU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ%2F&expires=1795064456/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ/174.m3u8",
+        "stream_url": "https://webcast-origin.b-cdn.net/bcdn_token=3WxX0TtLja6ViDAfZoFWgopxuNvKXmqgrzU9N5wZXKw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ%2F&expires=1795072335/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFjRi4lDr6sakxuTRPVBLFQ/174.m3u8",
         "referer": "https://slapstreams.com",
         "origin": "https://slapstreams.com",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Hockey",
-    "event_name": "Colorado Avalanche Vs Utah Mammoth",
+    "event_name": "New Jersey Devils Vs Montréal Canadiens",
     "eventInfo": {
-      "teamA": "Colorado Avalanche",
-      "teamB": "Utah Mammoth",
+      "teamA": "New Jersey Devils",
+      "teamB": "Montréal Canadiens",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
       "teamBFlag": "",
       "eventName": "NHL",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "English [STRMGATE]",
-        "stream_url": "https://edge1.candyshop.st/live/tv401892741/master.m3u8?st=OZHpFfICwkBND48i9Bn3NQ&e=1795075138",
-        "referer": "https://xstream.st/livetv.php?stream=tv401892741",
-        "origin": "https://xstream.st/livetv.php?stream=tv401892741",
+        "channel_name": "Disney + [STRMXHD]",
+        "stream_url": "https://khala.futlivehd.com/global/disney2/index.m3u8?token=ac4f8511f7214aaabf06938cabd0cc3969225990-37-1795117219-1795063219",
+        "referer": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "origin": "https://streamxhd.sbs/live1.php?stream=disney2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Tennis",
+    "event_name": "Nitto ATP Finals – Día #5: Shelton B. Vs Jodar R.",
+    "eventInfo": {
+      "teamA": "Nitto ATP Finals – Día #5: Shelton B.",
+      "teamB": "Jodar R.",
+      "teamAFlag": "https://files.catbox.moe/q8ljra.png",
+      "teamBFlag": "",
+      "eventName": "Tenis",
+      "event_logo": "https://files.catbox.moe/q8ljra.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "ESPN 2 [TVF90]",
+        "stream_url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=88a617054c9c922e2b9eaca233847c0587f5da91-8b-1795089321-1795071321",
+        "referer": "https://tvf90.com/1.php?stream=espn2",
+        "origin": "https://tvf90.com/1.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | HD [TVF90] 2",
+        "stream_url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=6064884dea644b1b15d2c33c4b2f842a37f754c0-50-1795089322-1795071322",
+        "referer": "https://tvf90.com/hd.php?stream=espn2",
+        "origin": "https://tvf90.com/hd.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | OP2 [TVF90] 3",
+        "stream_url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=950c1e2a6cece7f3279b3351def7c7abb8d4f435-49-1795089321-1795071321",
+        "referer": "https://tvf90.com/2.php?stream=espn2",
+        "origin": "https://tvf90.com/2.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | OP3 [TVF90] 4",
+        "stream_url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=07e47071104e227c776378c31d9db20bdfb32825-b8-1795089321-1795071321",
+        "referer": "https://tvf90.com/3.php?stream=espn2",
+        "origin": "https://tvf90.com/3.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
+  },
+  {
+    "status": "LIVE",
+    "Category": "Tennis",
+    "event_name": "Nitto ATP Finals – Día #5: Zverev A. Vs Fils A.",
+    "eventInfo": {
+      "teamA": "Nitto ATP Finals – Día #5: Zverev A.",
+      "teamB": "Fils A.",
+      "teamAFlag": "https://files.catbox.moe/q8ljra.png",
+      "teamBFlag": "",
+      "eventName": "Tenis",
+      "event_logo": "https://files.catbox.moe/q8ljra.png",
+      "startTime": "19/11/2026 02:10:23 PM"
+    },
+    "streams": [
+      {
+        "channel_name": "ESPN 2 [TVF90]",
+        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=00718063ecec132500bc19cb46f354ff70f83b29-b1-1795089322-1795071322",
+        "referer": "https://tvf90.com/1.php?stream=espn2",
+        "origin": "https://tvf90.com/1.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | HD [TVF90] 2",
+        "stream_url": "https://2.ftlly.com:443/espn2/mono.m3u8?token=89864987b4850b11861b6763ad14f348719e43c2-6b-1795089322-1795071322",
+        "referer": "https://tvf90.com/hd.php?stream=espn2",
+        "origin": "https://tvf90.com/hd.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | OP2 [TVF90] 3",
+        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=a525a08befef76c6ffe9587e3978f8381c0e0726-4b-1795089322-1795071322",
+        "referer": "https://tvf90.com/2.php?stream=espn2",
+        "origin": "https://tvf90.com/2.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 2 | OP3 [TVF90] 4",
+        "stream_url": "https://10.ftlly.com:443/espn2/mono.m3u8?token=30b351d29584156566cc06cba08e742d8ba24fd3-d0-1795089322-1795071322",
+        "referer": "https://tvf90.com/3.php?stream=espn2",
+        "origin": "https://tvf90.com/3.php?stream=espn2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      }
+    ],
+    "timestamp": 1795072223
   },
   {
     "status": "LIVE",
     "Category": "Football",
-    "event_name": "Chelsea FC Vs PSG",
+    "event_name": "Arsenal Vs OL Lyonnes",
     "eventInfo": {
-      "teamA": "Chelsea FC",
-      "teamB": "PSG",
+      "teamA": "Arsenal",
+      "teamB": "OL Lyonnes",
       "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
       "teamBFlag": "",
       "eventName": "UEFA Women's Champions League",
       "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
-      "startTime": "19/11/2026 11:59:00 AM"
+      "startTime": "19/11/2026 02:10:23 PM"
     },
     "streams": [
       {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn4/mono.m3u8?token=ac5bb975c881355ffbbb5d0b4d64b604d6244da1-e3-1795109334-1795055334",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn4",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn4",
+        "channel_name": "ESPN 5 [TVF90]",
+        "stream_url": "https://9.ftlly.com:443/espn5/mono.m3u8?token=ca384609882d9931eb9e84a1e3eb1445cd6c874b-4d-1795089320-1795071320",
+        "referer": "https://tvf90.com/1.php?stream=espn5",
+        "origin": "https://tvf90.com/1.php?stream=espn5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       },
       {
-        "channel_name": "STP 2",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espndeportes/mono.m3u8?token=21334c4b08249fd11aff5e1a2595883dfcacdf54-cd-1795109335-1795055335",
-        "referer": "https://streamx723.sbs/global1.php?channel=espndeportes",
-        "origin": "https://streamx723.sbs/global1.php?channel=espndeportes",
+        "channel_name": "ESPN 5 | HD [TVF90] 2",
+        "stream_url": "https://7.ftlly.com:443/espn5/mono.m3u8?token=b6dde7186681614f413d01181d1d5fd377e0cf7e-14-1795089321-1795071321",
+        "referer": "https://tvf90.com/hd.php?stream=espn5",
+        "origin": "https://tvf90.com/hd.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 | OP2 [TVF90] 3",
+        "stream_url": "https://7.ftlly.com:443/espn5/mono.m3u8?token=f1e44283423cdf4998e09243e37b75130345a4ad-f7-1795089320-1795071320",
+        "referer": "https://tvf90.com/2.php?stream=espn5",
+        "origin": "https://tvf90.com/2.php?stream=espn5",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+      },
+      {
+        "channel_name": "ESPN 5 | OP3 [TVF90] 4",
+        "stream_url": "https://2.ftlly.com:443/espn5/mono.m3u8?token=fbac1987802fd6d83ac209865919ea40ae484fed-b0-1795089321-1795071321",
+        "referer": "https://tvf90.com/3.php?stream=espn5",
+        "origin": "https://tvf90.com/3.php?stream=espn5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
       }
     ],
-    "timestamp": 1795064340
-  },
-  {
-    "status": "LIVE",
-    "Category": "Football",
-    "event_name": "Real Madrid Vs Inter Milano",
-    "eventInfo": {
-      "teamA": "Real Madrid",
-      "teamB": "Inter Milano",
-      "teamAFlag": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
-      "teamBFlag": "",
-      "eventName": "UEFA Women's Champions League",
-      "event_logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png",
-      "startTime": "19/11/2026 11:59:00 AM"
-    },
-    "streams": [
-      {
-        "channel_name": "STP",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn1cl/mono.m3u8?token=11acf34e6af7b2b85cd67bb2d221c17a0527c8e9-56-1795109334-1795055334",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn1cl",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn1cl",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "STP 2",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espn/mono.m3u8?token=40b2127d45d71dfdfa104fb9bcdf4e046ff5ec0e-c7-1795109334-1795055334",
-        "referer": "https://streamx723.sbs/global1.php?channel=espn",
-        "origin": "https://streamx723.sbs/global1.php?channel=espn",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      },
-      {
-        "channel_name": "STP 3",
-        "stream_url": "https://99.envivosenhd.beer:443/global/espndeportes/mono.m3u8?token=592dd5d47350b870ac32d100e952e713004b4e29-ae-1795109334-1795055334",
-        "referer": "https://streamx723.sbs/global1.php?channel=espndeportes",
-        "origin": "https://streamx723.sbs/global1.php?channel=espndeportes",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-      }
-    ],
-    "timestamp": 1795064340
+    "timestamp": 1795072223
   }
 ]
